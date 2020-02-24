@@ -13,7 +13,7 @@ import java.lang.annotation.RetentionPolicy;
     AndroidClassNames.SWITCH
 })
 public @interface AndroidClassNames {
-  String CHECKBOX = "android.widget.Checkbox";
+  String CHECKBOX = "android.widget.CheckBox";
   String EDIT_TEXT = "android.widget.EditText";
   String IMAGE_VIEW = "android.widget.ImageView";
   String SWITCH = "android.widget.Switch";
